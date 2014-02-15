@@ -1,0 +1,26 @@
+
+body{background:#eee;}
+
+.container{width:700px;margin-right:auto;margin-left:auto;margin-top:50px;}
+.leftCont{width:200px;float:left;background:red;}
+.rightCont{width:500px;float:right;background:;}
+.rightCont input{width:250px;height:28px;border:thin solid #ccc;padding:3px;}
+.rightCont select{width:70px;height:28px;}
+.btn{width:90px !important;height:30px;}
+@media screen and (max-width: 690px){
+    .container{width:100%;}
+    .leftCont{width:30%;}
+    .rightCont{width:70%;}
+}
+
+@media screen and (max-width: 390px){
+    .container{width:100%;}
+    .leftCont{width:100%;}
+    .rightCont{width:100%;}
+.rightCont input{width:100%;}
+}
+
+
+
+
+
