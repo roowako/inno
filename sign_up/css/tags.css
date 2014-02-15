@@ -7,7 +7,7 @@ select{width:95px;padding:8px;border:thin solid #ccc;border-radius:2px;height:38
 .table tr td{height:30px;vertical-align:top;}
 
 .btn{color:#fff;font:normal normal bold 13px "luicida grande",helvetica,sans-serif;}
-.create{width:95px;padding:8px;border-radius:0px;height:34px;cursor:pointer;float:right;margin-right:5px;}
+.create{width:95px;padding:8px;border-radius:2px;height:34px;cursor:pointer;float:right;margin-right:5px;}
 .errMsg{font-family:Arial, Helvetica, sans-serif; font-size:13px;}
 .empty{color:#9F6000;background:#FEEFB3;padding:8px;width:90%;border: 1px solid;margin-left:8px;}
 .actor-name{height:20px;margin-top:5px;color:#D8000C;width:90%;background:}
